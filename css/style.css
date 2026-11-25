@@ -22,6 +22,14 @@ header {
     border-bottom: 2px solid #b5121b;
 }
 
+.imagem-principal {
+    transition: transform 0.3s ease;
+}
+
+.imagem-principal:hover {
+    transform: scale(1.1);
+}
+
 nav {
     display: flex;
     justify-content: space-between;
