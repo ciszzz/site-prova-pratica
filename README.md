@@ -35,21 +35,6 @@ Também foi criada uma calculadora de desempenho, onde o usuário informa a quan
 - Mensagens de erro para valores inválidos.
 - Adaptação para telas de celular.
 
-## Estrutura dos arquivos
-
-```text
-pagina-tema-livre/
-│
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── img/
-│   └── caca-rato.jpg
-└── README.md
-```
-
 ## Testes realizados
 
 - Envio do formulário com campos vazios.
