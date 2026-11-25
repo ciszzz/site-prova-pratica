@@ -62,5 +62,4 @@ pagina-tema-livre/
 ## Fontes e créditos
 
 - Informações sobre o jogador: pesquisas sobre a carreira de Caça-Rato.
-- Imagem: identificar aqui o site de onde a imagem foi retirada.
-- Código desenvolvido com auxílio do ChatGPT (OpenAI).
+- Imagem: https://conteudo.imguol.com.br/c/esporte/8c/2019/04/09/flavio-caca-rato-teve-passagem-breve-pelo-atletico-itapemirim-so-nove-partidas-1554841242000_v2_1x1.jpg
